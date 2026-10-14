@@ -1,0 +1,187 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:51da8690-073e-5de7-a5c3-fcea5753a76e",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T16:43:16Z",
+  "component": {
+   "type": "application",
+   "name": "COIN",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/COIN@83b357604d34",
+   "purl": "pkg:generic/anticloud/COIN@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "BSD-3-Clause"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "null"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [
+  {
+   "type": "library",
+   "name": "X11",
+   "version": "unspecified",
+   "purl": "pkg:generic/X11",
+   "bom-ref": "native/X11@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "OpenGL",
+   "version": "unspecified",
+   "purl": "pkg:generic/OpenGL",
+   "bom-ref": "native/OpenGL@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Threads",
+   "version": "unspecified",
+   "purl": "pkg:generic/Threads",
+   "bom-ref": "native/Threads@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "EXPAT",
+   "version": "unspecified",
+   "purl": "pkg:generic/EXPAT",
+   "bom-ref": "native/EXPAT@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "superglu",
+   "version": "unspecified",
+   "purl": "pkg:generic/superglu",
+   "bom-ref": "native/superglu@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "FLEX",
+   "version": "unspecified",
+   "purl": "pkg:generic/FLEX",
+   "bom-ref": "native/FLEX@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "BISON",
+   "version": "unspecified",
+   "purl": "pkg:generic/BISON",
+   "bom-ref": "native/BISON@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "OpenAL",
+   "version": "unspecified",
+   "purl": "pkg:generic/OpenAL",
+   "bom-ref": "native/OpenAL@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "ZLIB",
+   "version": "unspecified",
+   "purl": "pkg:generic/ZLIB",
+   "bom-ref": "native/ZLIB@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "BZip2",
+   "version": "unspecified",
+   "purl": "pkg:generic/BZip2",
+   "bom-ref": "native/BZip2@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Freetype",
+   "version": "unspecified",
+   "purl": "pkg:generic/Freetype",
+   "bom-ref": "native/Freetype@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Fontconfig",
+   "version": "unspecified",
+   "purl": "pkg:generic/Fontconfig",
+   "bom-ref": "native/Fontconfig@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "SpiderMonkey",
+   "version": "unspecified",
+   "purl": "pkg:generic/SpiderMonkey",
+   "bom-ref": "native/SpiderMonkey@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "simage",
+   "version": "unspecified",
+   "purl": "pkg:generic/simage",
+   "bom-ref": "native/simage@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Coin",
+   "version": "unspecified",
+   "purl": "pkg:generic/Coin",
+   "bom-ref": "native/Coin@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Doxygen",
+   "version": "unspecified",
+   "purl": "pkg:generic/Doxygen",
+   "bom-ref": "native/Doxygen@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Git",
+   "version": "unspecified",
+   "purl": "pkg:generic/Git",
+   "bom-ref": "native/Git@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "SDL3",
+   "version": "unspecified",
+   "purl": "pkg:generic/SDL3",
+   "bom-ref": "native/SDL3@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Quarter",
+   "version": "unspecified",
+   "purl": "pkg:generic/Quarter",
+   "bom-ref": "native/Quarter@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Qt5",
+   "version": "unspecified",
+   "purl": "pkg:generic/Qt5",
+   "bom-ref": "native/Qt5@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "glfw3",
+   "version": "unspecified",
+   "purl": "pkg:generic/glfw3",
+   "bom-ref": "native/glfw3@unspecified"
+  }
+ ],
+ "sha_unverified": true
+}
