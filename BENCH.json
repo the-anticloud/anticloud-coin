@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "8adf508b996020d3efbeeb2473d7235bd01436fa",
-   "url": "https://github.com/jammy928/CoinExchange_CryptoExchange_Java",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/coin3d/coin",
+   "head": "ca247c1321bce07199ec0f034493977761b3218e",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/jammy928/CoinExchange_CryptoExchange_Java"
   }
  }
 }
