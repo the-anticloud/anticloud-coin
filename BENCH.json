@@ -543,7 +543,7 @@
    "url": "https://github.com/coin3d/coin",
    "head": "ca247c1321bce07199ec0f034493977761b3218e",
    "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
-   "previous_substitute": "https://github.com/jammy928/CoinExchange_CryptoExchange_Java"
+   "previous_substitute": "https://github.com/coin3d/coin"
   }
  }
 }
